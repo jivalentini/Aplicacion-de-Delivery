@@ -6,51 +6,40 @@ El sistema permite gestionar pedidos, administrar menús y calcular distancias e
 
 ## Tecnologías
 
-## 
+\- Java
 
-## \- Java
+\- Programación Orientada a Objetos
 
-## \- Programación Orientada a Objetos
+\- Herencia
 
-## \- Herencia
+\- Polimorfismo
 
-## \- Polimorfismo
+\- Estructuras de datos
 
-## \- Estructuras de datos
+## Funcionalidades
 
-## 
+\- Registro de clientes
 
-## \## Funcionalidades
+\- Registro de vendedores
 
-## 
+\- Administración de menú
 
-## \- Registro de clientes
+\- Gestión de platos y bebidas
 
-## \- Registro de vendedores
+\- Realización de pedidos
 
-## \- Administración de menú
+\- Historial de pedidos
 
-## \- Gestión de platos y bebidas
+\- Cálculo de distancia entre cliente y vendedor (fórmula de Haversine)
 
-## \- Realización de pedidos
 
-## \- Historial de pedidos
+## Objetivo del proyecto
 
-## \- Cálculo de distancia entre cliente y vendedor (fórmula de Haversine)
+Aplicar conceptos de programación orientada a objetos y modelado de entidades en un sistema de pedidos de comida.
 
-## 
+## Autor
 
-## \## Objetivo del proyecto
-
-## 
-
-## Aplicar conceptos de programación orientada a objetos y modelado de entidades en un sistema de pedidos de comida.
-
-## 
-
-## \## Autor
-
-## 
+Joaquin Valentini
 
 ## Joaquin Valentini  
 
