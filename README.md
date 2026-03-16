@@ -1,4 +1,4 @@
-## \# Aplicación de Delivery de Comida
+## Aplicación de Delivery de Comida
 
 ## 
 
