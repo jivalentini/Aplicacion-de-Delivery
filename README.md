@@ -1,16 +1,10 @@
 ## Aplicación de Delivery de Comida
 
-## 
+Proyecto desarrollado en Java como trabajo integrador para modelar una aplicación de pedidos de comida entre clientes y restaurantes.
 
-## Proyecto desarrollado en Java como trabajo integrador para modelar una aplicación de pedidos de comida entre clientes y restaurantes.
+El sistema permite gestionar pedidos, administrar menús y calcular distancias entre clientes y vendedores.
 
-## 
-
-## El sistema permite gestionar pedidos, administrar menús y calcular distancias entre clientes y vendedores.
-
-## 
-
-## \## Tecnologías
+## Tecnologías
 
 ## 
 
